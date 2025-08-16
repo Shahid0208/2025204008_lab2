@@ -12,3 +12,5 @@ CALL AddSubscriberIfNotExists('New User');
 CALL SendWatchTimeReport();
 CALL PrintAllSubscribersWatchHistory();
 
+Github repo:
+https://github.com/Shahid0208/2025204008_lab2
